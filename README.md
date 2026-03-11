@@ -1,2 +1,2 @@
 # TerraScope
-TerraScope. A DIY digital robotic microscope for DeSci.
+[TerraScope](https://biotexturas.org/www/?page_id=55). A DIY digital robotic microscope for DeSci.
